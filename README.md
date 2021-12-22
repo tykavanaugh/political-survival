@@ -1,0 +1,2 @@
+# political-survival
+A game
